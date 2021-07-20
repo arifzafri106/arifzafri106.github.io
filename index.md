@@ -6,7 +6,7 @@
 
 <div style="text-align: justify">This project is to perform EDA to understand the statistics of each Football team playing in the English Premier League for the 2020/2021 season. Performed data cleaning and manipulated the data to find the Win Percentage of each team in the EPL. </div>
 <br>
-<center><img src="images/graphs EPl.jpg"/></center>
+<img src="images/graphs EPl.jpg"/>
 <br>
 
 
