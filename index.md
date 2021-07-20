@@ -7,6 +7,6 @@
 
 <div style="text-align: justify">Using the dataset of IMDb and Netflix movies, I can find the top movies that can be found on Netflix using the user ratings that can be found in the IMDb dataset. By merging the dataset I was able to perform EDA using pandas and seaborn. </div>
 <br>
-<center><img src="images/graphs.jpg"></center>
+<center><img src="images/graphs.jpg"/></center>
 <br>
 <center>© Arif Zafri. Powered by Jekyll and the Minimal Theme.</center>
