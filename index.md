@@ -6,8 +6,8 @@
 
 <div style="text-align: justify">This project is to use SQL Language to find the murderer in SQL City. BY using SQL we can find the name of the murderer by using the database based on the Entity Relationship Diagram (ERD).</div>
 <br>
-<img src="images/sql1.png"/>
-<img src="images/sql2.png"/>
+<img src="images/sql1.jpg"/>
+<img src="images/sql2.jpg"/>
 <br>
 
 ## English Premier League Football Teams EDA Using Pandas and Seaborn
