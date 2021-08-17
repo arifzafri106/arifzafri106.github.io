@@ -1,5 +1,14 @@
 # Portfolio
 ---
+## Using SQL Language to Find the Murderer in SQL City
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/arifzafri106/sql-mystery/blob/main/sqlmurdermystery.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifzafri106/sql-mystery)
+
+<div style="text-align: justify">This project is to use SQL Language to find the murderer in SQL City. BY using SQL we can find the name of the murderer by using the database based on the Entity Relationship Diagram (ERD).</div>
+<br>
+<img src="images/graphs EPl.jpg"/>
+<br>
+
 ## English Premier League Football Teams EDA Using Pandas and Seaborn
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/arifzafri106/EPL-teams-EDA/blob/main/jupyter/EPL_results%20(1).ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/arifzafri106/EPL-teams-EDA)
